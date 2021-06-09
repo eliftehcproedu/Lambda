@@ -2,7 +2,6 @@ package lambda_tum._1_Lambda.Lambda_;
 
 public class notlar {
 }
-
 /*
 FONKSIYONEL01
   - Java8'den once Java. 3 programala paradigmasini destekliyordu :
@@ -46,5 +45,7 @@ FONKSIYONEL01
   int y=5;
   y = y+x;
   return y: }
-  expression sayisi birden fazla ile suslu parantez kullaniyoruz. Suslu parantez varsa ve bir sey dondurmek istiyorsak "return" kullanmamiz gerekiyor. (Dipnot : for donguleri ici ne kadar dolu olursa olsun 1 expression sayilir)
+  expression sayisi birden fazla ile suslu parantez kullaniyoruz.
+  Suslu parantez varsa ve bir sey dondurmek istiyorsak "return" kullanmamiz gerekiyor.
+  (Dipnot : for donguleri ici ne kadar dolu olursa olsun 1 expression sayilir)
 */
